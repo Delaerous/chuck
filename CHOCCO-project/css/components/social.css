@@ -1,0 +1,9 @@
+.social {
+  display: flex;
+  justify-content: flex-end; }
+  .social__item {
+    margin-right: 20px; }
+    .social__item:last-child {
+      margin-right: 0; }
+
+/*# sourceMappingURL=social.css.map */

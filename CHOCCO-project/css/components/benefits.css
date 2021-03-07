@@ -1,0 +1,7 @@
+.benefits {
+  display: flex;
+  justify-content: space-between; }
+  .benefits__item {
+    width: calc(100% / 3 - 20px); }
+
+/*# sourceMappingURL=benefits.css.map */

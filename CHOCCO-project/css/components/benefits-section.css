@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.benefits-section {
+  position: relative; }
+  .benefits-section::before {
+    content: url("../../img/backgrounds/узор лист 1.png");
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%); }
+  .benefits-section::after {
+    content: url("../../img/backgrounds/малина 1.png");
+    position: absolute;
+    left: 0;
+    bottom: -18%; }
+
+/*# sourceMappingURL=benefits-section.css.map */

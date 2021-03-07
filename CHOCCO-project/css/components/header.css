@@ -1,0 +1,16 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/frade\/Desktop\/CHOCCO-project\/css\/components\/header\.scss}line{font-family:\000032}}
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/frade\/Desktop\/CHOCCO-project\/css\/components\/header\.scss}line{font-family:\000037}}
+  .header__logo {
+    margin-right: 40px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/frade\/Desktop\/CHOCCO-project\/css\/components\/header\.scss}line{font-family:\0000311}}
+  .header__phone {
+    position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/frade\/Desktop\/CHOCCO-project\/css\/components\/header\.scss}line{font-family:\0000314}}
+    .header__phone-link {
+      font-size: 22px; }
+
+/*# sourceMappingURL=header.css.map */
